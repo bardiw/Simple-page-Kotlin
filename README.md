@@ -43,3 +43,13 @@ It displays:
 - Launch the app.
 - See the profile card with name & ID.
 - Scan the QR code to open the linked Telegram profile.
+
+---
+
+## ⚙️ Dependencies
+
+Add this to your build.gradle (module):
+```bash
+implementation "com.lightspark:compose-qr:1.0.0"
+implementation "androidx.compose.ui:ui:1.5.0"
+implementation "androidx.compose.material3:material3:1.2.0"
