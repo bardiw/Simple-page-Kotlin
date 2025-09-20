@@ -26,3 +26,20 @@ It displays:
 - **Theme**: Material3
  
 ---
+
+## 📦 Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/kotlin-profile-qr.git
+   cd kotlin-profile-qr
+2. Open in Android Studio.
+
+3. Sync Gradle and run on an emulator or physical device
+ 
+---
+
+▶️ Usage
+
+- Launch the app.
+- See the profile card with name & ID.
+- Scan the QR code to open the linked Telegram profile.
