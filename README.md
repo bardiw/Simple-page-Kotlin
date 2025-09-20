@@ -53,3 +53,10 @@ Add this to your build.gradle (module):
 implementation "com.lightspark:compose-qr:1.0.0"
 implementation "androidx.compose.ui:ui:1.5.0"
 implementation "androidx.compose.material3:material3:1.2.0"
+```
+---
+
+## 👨‍💻 Author
+ Bardia Javadi   
+  📧 bardia.javadi.2003@gmail.com    
+  🌐 GitHub: [@bardiw](https://github.com/bardiw)   
