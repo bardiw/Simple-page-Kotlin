@@ -18,3 +18,11 @@ It displays:
 - ✅ Material3 design principles  
 
 ---
+
+## 🛠️ Tech Stack
+- **Language**: Kotlin  
+- **UI Toolkit**: Jetpack Compose  
+- **QR Code Library**: `compose-qr`  
+- **Theme**: Material3
+ 
+---
